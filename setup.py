@@ -9,5 +9,5 @@ setup(
     author='Proteus Technologies Co. Ltd.',
     author_email='team@proteus-tech.com',
     url='https://github.com/Proteus-tech/django-request-local',
-    packages=['django_request_local'])
-  
+    packages=['django_request_local']
+    )
